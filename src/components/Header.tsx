@@ -11,7 +11,7 @@ const Header = () => {
     return (
         <>
             <header className='px-3 max-w-7xl md:px-0 xl:mx-auto w-full flex items-center justify-between'>
-                <section className='flex items-center gap-x-4 p-9'>
+                <section className='flex items-center gap-x-4 py-9'>
                     <Logo />
                     <ThemeToggle />
                 </section>
